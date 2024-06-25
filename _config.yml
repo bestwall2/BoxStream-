@@ -3,24 +3,24 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Neon Frame | Screenshot Maker | Screenshot Editor | Android app
-email: support@mobile-dev.pro
-description: Make highlighted screenshots for Twitter, Instagram, LinkedIn, etc. | Screenshot Maker | Screenshot Editor
-baseurl: "/neonframe.page" # the subpath of your site, e.g. /blog
-url: "https://mobiledevpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: Box Stream - Movies app for Android
+email: ahmed.dikha26@gmail.com
+description: Best Application for watching movies on Androids devices.
+baseurl: "/BoxStream-" # the subpath of your site, e.g. /blog
+url: "https://bestwall2.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
-twitter_username: mobiledev_pro
-github_username:  mobiledevpro
-author: Dmitri Chernysh
+twitter_username: 
+github_username:  bestwall2
+author: Ahmed Dikha
 logo: assets/images/large-logo.png
 twitter:
-  username: mobiledev_pro
+  username: 
 social:
   name: mobiledevpro
   links:
-    - https://twitter.com/mobiledev_pro
-    - https://www.linkedin.com/in/dmitriychernysh
-    - https://github.com/dmitriy-chernysh
+    - https://www.facebook.com/Ahmed26DIA
+    - https://www.instagram.com/_a_h_m_e_d_d_i_e_
+    - https://github.com/bestwall2/
 
 languages: ["en"]
 ampdir: amp
