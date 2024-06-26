@@ -212,7 +212,7 @@ h1, h2 {
     grid-column-gap: 20px;
     padding: 30px 0;
 
-    @media (max-width: 768px) {
+    @media (max-width: 480px) {
       padding: 32px;
       width: 800px;
     }
